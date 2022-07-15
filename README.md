@@ -10,11 +10,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -28,15 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-
+![](./screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://jaycgreenwald.github.io/17-preview-product-card-component/](https://jaycgreenwald.github.io/17-preview-product-card-component/)
 
 ## My process
 
@@ -60,8 +55,3 @@ Everything. Responsive design, SASS, REM, and more.
 - Website - [jaycgreenwald at GitHub](https://github.com/jaycgreenwald)
 - Frontend Mentor - [@jaycgreenwald](https://www.frontendmentor.io/profile/jaycgreenwald)
 - Twitter - [@jaycgreenwald](https://www.twitter.com/jaycgreenwald)
-
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
